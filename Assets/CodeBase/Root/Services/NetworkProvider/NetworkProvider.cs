@@ -41,6 +41,7 @@ public class NetworkProvider : INetworkProvider
             CustomLobbyName = RootLobbyName,
             SceneManager = _networkRunner.gameObject.AddComponent<NetworkSceneManagerDefault>(),
             OnGameStarted = GameStarted,
+            PlayerCount = 2,
         });
     }
 
