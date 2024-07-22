@@ -1,0 +1,16 @@
+{
+	"Configs": [
+		{
+			"Id": "Pack1",
+			"ProductType": 0,
+			"Price": 1.99,
+			"Gold": 10
+		},
+		{
+			"Id": "Pack2",
+			"ProductType": 0,
+			"Price": 3.99,
+			"Gold": 100
+		}
+	]
+}
